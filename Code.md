@@ -28,5 +28,6 @@ JavaScript
 ### Keywords
 Varibles
 	- Declare: No "var", only "let" or "const"
-	
+Conditions
+	- General: Use Switch instead of If statements whenever there is more than 2 cases
 
