@@ -10,3 +10,4 @@ Files
 ### Code
 Varibles
 	- General: 1 word, Lowercase, if more words needed, use nested varibles
+	- Declare: No "var", only "let" or "const"
