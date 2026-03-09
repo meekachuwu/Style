@@ -11,7 +11,7 @@ Files
 Varibles
 	- General: 1 word, Lowercase, if more words needed, use nested varibles
 ## Format
-## Comments
+### Comments
 Placement
 	- General: Use self explanatory varible names instead of comments, then add short comments to the side of the code summerizing the purpose of the logic in 1 sentance
 	- Alignment: Line up comments with tabs
