@@ -9,4 +9,4 @@ Files
 	- ReadMe:		Capitalized
 ### Code
 Varibles
-- General: 1 word, Lowercase, if more words needed, use nested varibles
+	- General: 1 word, Lowercase, if more words needed, use nested varibles
