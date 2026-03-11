@@ -33,6 +33,6 @@ Conditions
 Functions
 	- Use arrow functions (=>) whenever possible
 Loops
-	- Use foreach or equivalent (.every()) instead of standard for loops 
+	- Use array methods (foreach, every, filter, map) instead of standard loops 
 Quotes
 	- Use template literals (`) instead of quotation marks
