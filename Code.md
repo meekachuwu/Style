@@ -16,7 +16,7 @@
 - Functions:	`=>`
 - Loops:		`foreach`
 - Quotes:		``` ` ```
-**Settings**
+### Settings
 - Directive:	`use strict`
 
 ## Reference
