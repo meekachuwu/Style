@@ -2,7 +2,7 @@
 ## Naming Convention
 ### File System
 Folders
-	- General:	Capitalized
+- General:	Capitalized
 Files
 	- Scripts:	Lowercase
 	- Modules:	Capitalized
