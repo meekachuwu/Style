@@ -1,4 +1,4 @@
-# Code Style Guide
+# Code Format Standards
 ## Naming Convention
 ### File System
 Folders
@@ -9,7 +9,7 @@ Files
 	- ReadMe:		Capitalized
 ### Code
 Varibles
-	- General: 1 word, Lowercase, if more words needed, use nested varibles
+	- General: 1 word, lowercase, letters only.  If more words needed, nested varibles in objects or object-like structures
 ## Format
 ### Comments
 Placement
@@ -23,11 +23,16 @@ Indention
 General:
 ## Syntax
 ### Restrictions
-JavaScript
-	- General: Use strict mode
+Standards
+	- JavaScript: Use strict mode
 ### Keywords
 Varibles
 	- Declare: No "var", only "let" or "const"
 Conditions
 	- General: Use Switch instead of If statements whenever there is more than 2 cases
-
+Functions
+	- Use arrow functions (=>) whenever possible
+Loops
+	- Use foreach or equivalent (.every()) instead of standard for loops 
+Quotes
+	- Use template literals (`) instead of quotation marks
